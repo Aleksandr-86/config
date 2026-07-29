@@ -23,7 +23,8 @@
             "org.gnome.Nautilus",
             "discord",
             "appimagekit_47d89a96a890c71d09c38f6cda8e71ff-YouGile",
-            "rmpc"
+            "rmpc",
+            "google-chrome-unstable"
         ],
         "position": "center",
         "screenshotAnnotationTool": "",
